@@ -230,7 +230,7 @@ for bar in bars:
                  ha='center', color='w', fontsize=11)
 plt.show()
 
-#=========================Solution for Michigan
+#=========================Solution for Michigan=================================
 
 import matplotlib.pyplot as plt
 import numpy as np
